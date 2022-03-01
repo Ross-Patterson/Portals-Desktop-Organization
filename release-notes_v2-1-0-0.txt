@@ -1,5 +1,3 @@
-Release Notes for Portals v2.1.0.0
-
 > Update 1
 > Update 2
 > Update 3
