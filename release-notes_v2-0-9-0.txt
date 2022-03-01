@@ -1,0 +1,2 @@
+> Added better update solution which allows 1 click update.
+> Fixed issue with Windows folder context menu button where a space in the folder name would behave erratically.
