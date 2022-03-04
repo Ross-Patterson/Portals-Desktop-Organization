@@ -1,2 +1,19 @@
-> Added better update solution which allows 1 click update.
-> Fixed issue with Windows folder context menu button where a space in the folder name would behave erratically.
+All settings will be preserved across updates.
+
+Changelog (v2.0.9):
+> Added better update solution which allows
+  1 click update.
+> Fixed issue with Windows folder context menu
+  button where a space in the folder name would
+  behave erratically.
+> Better icon retrieval method
+> Fixed issues between x86 and x64 machines where
+  the file properties window would show incorrect
+  paths.
+> Added option to apply dropshadow effect on both
+  titlebar text and file/folder name text.
+> Added option to change titlebar and file/folder
+  name font, font size and font style.
+> Reduced the with of the Lock/Unlock and Customize
+  buttons on the titlebar so they take up less space
+  (if you choose to have them shown)
