@@ -17,3 +17,7 @@ Changelog (v2.0.9):
 > Reduced the with of the Lock/Unlock and Customize
   buttons on the titlebar so they take up less space
   (if you choose to have them shown)
+> Added option to change the height of the titlebar
+  to accommodate larger title font sizes.
+> Added a manual "Check for Updates" button on the
+  About screen.
