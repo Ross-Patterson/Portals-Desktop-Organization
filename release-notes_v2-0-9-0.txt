@@ -21,3 +21,6 @@ Changelog (v2.0.9):
   to accommodate larger title font sizes.
 > Added a manual "Check for Updates" button on the
   About screen.
+> Added more options for icon size.
+> Added an option to use a different icon retrieval
+  method, depending on which one you like best.
