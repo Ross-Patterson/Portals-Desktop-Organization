@@ -1,4 +1,12 @@
 All settings will be preserved across updates.
 
 Changelog (v2.1.0.0):
-> TBC
+> Portals now won't show when using Alt+Tab to 
+  cycle through open windows. The main Portals
+  window will still show, if open.
+> You now choose your own custom icon order.
+> You can now choose to show/hide hidden files.
+> You can choose to show hidden files with a 
+  transparency effect (if shown)
+> Added crash logging.
+> Some other small fixes.
