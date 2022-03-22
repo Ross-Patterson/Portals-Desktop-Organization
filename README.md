@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://downloads.portals-app.com/images%2Fportals_Smallx512.png?alt=media" />
+  <img src="https://downloads.portals-app.com/images%2Fportals_biglogo_text-as-path_white.svg?alt=media" />
 </p>
 
 # Portals: Desktop Organization
