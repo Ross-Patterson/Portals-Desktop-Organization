@@ -4,4 +4,4 @@
 
 ## _A free, simple, lightweight and customizable tool for desktop organization on Windows._
 
-Get it here: [Get Portals](https://portals-app.com)
+Get it here: [(https://dabuttonfactory.com/button.png?t=Get+Portals&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=f90)](https://portals-app.com)
