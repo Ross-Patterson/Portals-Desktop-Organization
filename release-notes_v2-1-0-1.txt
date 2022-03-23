@@ -1,1 +1,5 @@
-tbc
+All settings will be preserved across updates.
+
+Changelog (v2.1.0.1):
+> Layouts - you can now save different protal
+  layouts and swicth between them.
