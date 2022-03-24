@@ -1,5 +1,21 @@
 All settings will be preserved across updates.
 
 Changelog (v2.1.0.1):
-> Layouts - you can now save different protal
-  layouts and swicth between them.
+> Layouts - you can now save layouts and switch 
+  between them.
+> You can now use hex color codes (as well as
+  the color picker) to set colors of everything.
+> Added a setting allowing you to click anywhere
+  on the titlebar to expand/minimize the portal.
+> Added setting to remove the expand/minimize 
+  icon on the left of the titlebar.
+> Added per portal option to completely hide the 
+  titlebar (it can be shown again from the main 
+  window or by right-clicking  the portal's 
+  background).
+> Added the ability to change the titlebar's 
+  transparency.
+> Better way of raising bug reports and feature 
+  requests using GitHub issues.
+> Added setting to allow a portal to be moved 
+  around by dragging any background area of the portal.
