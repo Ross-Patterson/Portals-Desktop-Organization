@@ -1,1 +1,8 @@
+All settings will be preserved across updates.
 
+Changelog (v2.1.0.2):
+> When "Show Desktop" is used (WIN+D), Portals
+  will no longer get minimized.
+> Portal borders - you can now apply a border
+  to Portals if you wish, with customizable
+  thickness, color and corner radius.
