@@ -6,3 +6,7 @@ Changelog (v2.1.0.2):
 > Portal borders - you can now apply a border
   to Portals if you wish, with customizable
   thickness, color and corner radius.
+> When overriding a specific portal's colors etc.
+  using the popup color pickers and sliders the
+  UI will now update in realtime so you can
+  see how it looks much easier.
