@@ -10,3 +10,6 @@ Changelog (v2.1.0.2):
   using the popup color pickers and sliders the
   UI will now update in realtime so you can
   see how it looks much easier.
+> Portal window order - you can now control the
+  order of the Portal windows i.e. how they show
+  on top of each other.
