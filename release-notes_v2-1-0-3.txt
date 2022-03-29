@@ -1,0 +1,20 @@
+All settings will be preserved across updates.
+
+Changelog (v2.1.0.3):
+> Additional fix for a crash when a Portal
+folder is being used by software that creates .tmp files.
+
+In addition to v2.1.0.2 changes in case you missed them:
+> Window Order - you can now choose the order
+  of Portals (i.e. how they show on top of one 
+  another)
+> Rounded Corners - Your Portals can now have 
+  rounded corners of customizable size.
+> Borders - Your Portals can now have borders,
+  with customizable color and thickness.
+> Fixed a crash when a Portal folder is being 
+  used by software that creates .tmp files.
+> Portals will no longer minimize when Win+D
+  is pressed (Show Desktop)
+> Popup color and transparency pickers now show
+  UI updates in real time.
