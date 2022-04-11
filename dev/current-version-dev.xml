@@ -2,6 +2,6 @@
 <item>
   <version>2.1.1.0</version>
   <url>https://downloads.portals-app.com/installers%2F2.0.9.0%2Fportals_installer_v2-1-0-1.exe?alt=media</url>
-  <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/dev/release-notes_v2-1-0-0.txt</changelog>
+  <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/dev/release-notes_dev.txt</changelog>
   <mandatory>false</mandatory>
 </item>
