@@ -4,5 +4,5 @@
   <url>https://downloads.portals-app.com/installers%2F2.1.0.3%2Fportals_installer_v2-1-0-3.exe?alt=media</url>
   <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/dev/release-notes_dev.txt</changelog>
   <mandatory>false</mandatory>
-  <args>/SILENT /MERGETASKS="!desktopicon" /CLOSEAPPLICATIONS /NORESTART /NOCANCEL</args>
+  <args>/VERYSILENT /MERGETASKS="!desktopicon" /CLOSEAPPLICATIONS /NORESTART /NOCANCEL</args>
 </item>
