@@ -1,4 +1,24 @@
 All settings will be preserved across updates.
 
 Changelog (v2.1.0.0):
-> TBC
+> This is a really long line to test if text wrapping works properly, this line is really really really long. It is longer than a line should ever be, but it still     exists, purely for testing purposes.
+> Another Line
+> Another Line
+> Another Line
+  Testing
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
+> Another Line
