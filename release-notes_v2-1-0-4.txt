@@ -1,0 +1,16 @@
+All settings will be preserved across updates.
+
+Thanks to everyone who submitted bug reports & feature requests ion GitHub!
+
+Changelog (v2.1.0.4):
+> Titlebars can now be positioned on left/right of portals. (Current rename of portal is only available on Top/Bottom titlebars).
+> Added experimental feature allowing portals to expand/minimize when they are hovered over.
+> You can now use relative positioning to position and size a portal relative to the screen width/height.
+> New update window UI, with Auto-Update and Remind Me Later functions
+> You can now drag files from Portals to other external applications.
+> Deleting multiple files when Windows delete prompts are turned on will now only prompt once.
+> Added Expand All/Minimize All portals button.
+> Portal title text and menu button can now be hidden from the titlebar.
+> Added ability to hide scrollbars on portals.
+> Updated Settings UI with better grouping.
+> Fixed some bugs causing crashes.
