@@ -10,7 +10,5 @@ Changelog (v2.1.0.2):
   with customizable color and thickness.
 > Fixed a crash when a Portal folder is being 
   used by software that creates .tmp files.
-> Portals will no longer minimize when Win+D
-  is pressed (Show Desktop)
 > Popup color and transparency pickers now show
   UI updates in real time.
