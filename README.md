@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://downloads.portals-app.com/images%2Fportals_biglogo_text-as-path_white.svg?alt=media" />
+  <img src="./img/portals_logo_dark.png#gh-dark-mode-only" />
+  <img src="./img/portals_logo_light.png#gh-light-mode-only" />
 </p>
 
 ## _A free, simple, lightweight and customizable tool for desktop organization on Windows._
