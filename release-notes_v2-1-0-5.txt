@@ -1,0 +1,16 @@
+All settings will be preserved across updates.
+
+Thanks to everyone who submitted bug reports & feature requests on GitHub and via email!
+
+Changelog (v2.1.0.5):
+> Installer and Exe are now signed with code signing certificates so warnings should go away while installing.
+> Better support for display scaling when using relative positioning.
+> Win+D - Portals should now not hide.
+> ZIP files will now open with default program rather than Windows Explorer.
+> Title can now be centered.
+> Added optional animations for Portals Expanding/Minimizing (Off by default)
+> Animation Ease and Duration can be set via settings.
+> Added ability to open default windows context menu from item context menu (Send To... buttons don't seem to work though)
+> Open File Location now opens Target location for .LNK files.
+> Color Pickers no longer have Alpha channel in Hex codes.
+> Added setting to allow Lock button to also lock the Title if one desires, so it can be clicked to expand/minimize.
