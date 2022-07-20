@@ -14,3 +14,4 @@ Changelog (v2.1.0.5):
 > Open File Location now opens Target location for .LNK files.
 > Color Pickers no longer have Alpha channel in Hex codes.
 > Added setting to allow Lock button to also lock the Title if one desires, so it can be clicked to expand/minimize.
+> Added setting to disable items expanding to show their full file/folder name when selected.
