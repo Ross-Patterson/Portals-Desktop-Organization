@@ -4,7 +4,7 @@ Thanks to everyone who submitted bug reports & feature requests on GitHub and vi
 
 Changelog (v2.1.0.6):
 > Fixed Expand/Minimize caret color not following chosen color scheme.
-> Added #56 - setting to enable Double-Click Desktop to show/hide all Portals. (Note: Desktop needs to be the active window i.e. double clicking the desktop behind another active window will not work).
+> Added #54 - setting to enable Double-Click Desktop to show/hide all Portals. (Note: Desktop needs to be the active window i.e. double clicking the desktop behind another active window will not work).
 > Added #42 - ability to have Portal specfic icon sizes
 > Fixed #49 - UAC Error - Portals won't crash, insteadf will do nothing.
 > Fixed #43 - Access Denied Error - Portals won't crash but throw a message instead.
