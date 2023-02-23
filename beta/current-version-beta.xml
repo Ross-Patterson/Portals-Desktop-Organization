@@ -1,1 +1,7 @@
-TBC
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>3.0.0.0</version>
+  <url>TBC</url>
+  <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/release-notes_v2-1-0-6.txt</changelog>
+  <mandatory>false</mandatory>
+</item>
