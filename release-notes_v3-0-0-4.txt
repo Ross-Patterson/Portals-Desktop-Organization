@@ -1,1 +1,19 @@
-> TBC
+MAJOR UPDATE
+
+I have essentually overhauled the app to increase stability and performance.
+
+> Removed bloaty material UI library
+> Added Peek Function (CTRL+SHFT+SPACE to bring Portals to front)
+> Added quick show/hide portals on desktop (CTRL+SHIFT+A)
+> Added options to control item margin, spacing, text height etc.
+> Better icon support - especially for Steam
+> Added ability to Search a portal
+> Added Display Name capability for Portals.
+> Added support for using images as the background for Portals.
+> Added ability to disable Drag/Drop
+> Removed Relative Positioning (too bloaty and bearly worked) - replaced it with the ability to have layouts assigned to each of your display setups. The app will automatically detect display changes and can automatically switch between layouts.
+> Added ability to switch release channel to Beta, to allow people to help with testing new versions.
+> Added ability to export / import settings
+> Added Full Reset capability
+> Window order is now controlled by simply dragging/dropping on the main window table.
+
