@@ -1,0 +1,9 @@
+All settings will be preserved!
+
+v3.0.1.0 Changes:
+1. Fixed issues with blurry icons at higher scaling settings 125%+
+2. Brought back double click desktop to show/hide
+3. Portals will keep their last expanded/minimized state on restart.
+4. Added ability to change the associated folder of a Portal.
+5. Added Keyboard shortcut for Edit Custom Sort order (CTRL+E, if custom sorting is enabled)
+6. Some code fixes for specific crashes.
