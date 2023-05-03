@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>3.0.0.4</version>
-  <url>https://downloads.portals-app.com/installers%2F3.0.0.4%2Fportals_installer_v3-0-0-4.exe?alt=media</url>
-  <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/release-notes_v3-0-0-4.txt</changelog>
+  <version>3.0.1.0</version>
+  <url>https://downloads.portals-app.com/installers%2F3.0.1.0%2Fportals_installer_v3-0-1-0.exe?alt=media</url>
+  <changelog>https://raw.githubusercontent.com/Ross-Patterson/Portals-Desktop-Organization/main/release-notes_v3-0-1-0.txt</changelog>
   <mandatory>false</mandatory>
 </item>
