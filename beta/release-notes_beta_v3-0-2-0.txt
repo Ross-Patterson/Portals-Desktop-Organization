@@ -1,1 +1,8 @@
-TBC
+All settings will be preserved!
+
+v3.0.2.0 Changes:
+1. #136 - Close All Portals Not Working - FIXED
+2. #135 - Incorrect icon for .URL files - FIXED (will show default browser icon)
+3. #132 - Double Click Desktop Icon Hides Portals - FIXED
+4. #48 - Quicklook/Seer Support Added as a Preview Feature
+5. #105 - Added snapping to other portals as a Preview Feature
