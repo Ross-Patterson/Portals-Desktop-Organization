@@ -1,1 +1,12 @@
-TBC
+All settings will be preserved!
+
+v3.0.2.1 Changes:
+> #144 - Fixed LNK extension not hiding due to case sensitivity issue
+> #141 - Fixed crash when clicking sort by "Ascending"
+> #140 - Added name of portal being customized to the Portal customize window
+> #139 - Added the name of the portal to the Portal already exists error.
+> #138 - Added info column to Layouts view to view the contents of the layout.
+> #137 - Added PREVIEW FEATURE for showing Icon Overlays
+> Fixed issue where the Layouts and Display Setups windows where opening behind the main window.
+> If fetching an icon for a file completely fails, portals will no longer crash but instead show a broken file icon.
+> Made the table header tooltips easier to show on hover & fixed some wrong tooltip contents
