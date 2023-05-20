@@ -10,3 +10,4 @@ v3.0.2.1 Changes:
 > Fixed issue where the Layouts and Display Setups windows where opening behind the main window.
 > If fetching an icon for a file completely fails, portals will no longer crash but instead show a broken file icon.
 > Made the table header tooltips easier to show on hover & fixed some wrong tooltip contents
+> Fixed issue with Reset All Settings not working properly
