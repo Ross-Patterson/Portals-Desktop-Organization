@@ -7,6 +7,7 @@ v3.0.2.1 Changes:
 > #139 - Added the name of the portal to the Portal already exists error.
 > #138 - Added info column to Layouts view to view the contents of the layout.
 > #137 - Added PREVIEW FEATURE for showing Icon Overlays
+> #145 - Added option to installer to not add the registry keys which add the options to the windows context menus
 > Fixed issue where the Layouts and Display Setups windows where opening behind the main window.
 > If fetching an icon for a file completely fails, portals will no longer crash but instead show a broken file icon.
 > Made the table header tooltips easier to show on hover & fixed some wrong tooltip contents
