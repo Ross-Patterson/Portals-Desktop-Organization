@@ -17,5 +17,5 @@ v3.0.2.2 Changes:
 14. If fetching an icon for a file completely fails, portals will no longer crash but instead show a broken file icon.
 15. Made the table header tooltips easier to show on hover & fixed some wrong tooltip contents
 16. Fixed issue with Reset All Settings not working properly
-17. Fixed issue with main window not updating when changing the folder associated to a portal.
+17. #149 - main window not updating when changing the folder associated to a portal - FIXED
 18. Made main window home table not sortable, since this table controls the window order of the portals via drag/drop.
