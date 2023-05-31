@@ -1,2 +1,5 @@
+All settings will be preserved!
+
+v3.0.2.0 Changes:
 17. #149 - main window not updating when changing the folder associated to a portal - FIXED
 18. Made main window home table not sortable, since this table controls the window order of the portals via drag/drop.
