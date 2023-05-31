@@ -1,1 +1,4 @@
+All settings will be preserved!
+
+v3.0.2.2 Changes:
 TBC
