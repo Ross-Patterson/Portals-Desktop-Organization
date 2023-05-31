@@ -1,0 +1,2 @@
+17. #149 - main window not updating when changing the folder associated to a portal - FIXED
+18. Made main window home table not sortable, since this table controls the window order of the portals via drag/drop.
