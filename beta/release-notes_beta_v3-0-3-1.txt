@@ -5,3 +5,14 @@ Changes in v3.0.3.1:
   Both marked as unverified until someone QAs them in Crowdin.
 - Added ability to cycle through files in a Portal using the keys the same as how windows explorer works.
 - Added setting which when turned on will always bring the most recently mouse over'd Portal to the front of the Portal window order
+
+Changes in v3.0.3.0:
+1. Added language support - only English available currently.
+   Help translation on Crowdin and I will add them in future releases:
+   https://crowdin.com/project/portals-desktop-organization
+2. Added a better, more modern folder browser which allows path to be pasted and multi-folder selection. 
+3. Added ability to Drag files on top of executable files (bat, exe etc.)
+4. Added setting for adding a margin to the entire portal contents.
+5. Added "Folder Priority" to sorting, so you can still sort by Name etc. but choose to have folders first, last or no priority.
+6. Added "Restart Portals" button to taskbar icon.
+7. Added Help page to main window, linking to the Portals help site: https://portals-app.help
