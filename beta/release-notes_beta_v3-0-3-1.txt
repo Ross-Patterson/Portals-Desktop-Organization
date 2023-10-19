@@ -1,4 +1,7 @@
 All settings will be preserved!
 
 Changes in v3.0.3.1:
-- 
+- Added Simplified Chinese and Spanish Translations
+  Both marked as unverified until someone QAs them in Crowdin.
+- Added ability to cycle through files in a Portal using the keys the same as how windows explorer works.
+- Added setting which when turned on will always bring the most recently mouse over'd Portal to the front of the Portal window order
