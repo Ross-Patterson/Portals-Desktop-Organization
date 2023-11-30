@@ -1,0 +1,19 @@
+All settings will be preserved.
+
+Changes in v3.1.0.2:
+> Added ability to change the Details View column header height
+> Details view column header now follows portal header for text style
+> Fixed Name column in Details view to make it trim properly and work properly when renaming files.
+> Other Minor Details before prod release.
+
+Changes in v3.1.0.1:
+> Added ability to update existing layout
+> Added French Translation
+> Fixed issue with Display Setups being wrongly matched.
+
+Changes in v3.1.0.0:
+> Added List View
+> Added Details View
+> Added ability to choose the keyboard shortcut you want for Peek and Show/Hide All.
+> Added Navigating within a Portal (with relevant setting to turn it off)
+> Added German Translation
