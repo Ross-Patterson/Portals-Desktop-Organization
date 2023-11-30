@@ -1,6 +1,6 @@
 ALl settings will be preserved!
 
-Changes in v3.1.0.3:
+Changes in v3.1.0.2:
 > Added German and French translations (unverified)
 > Added ability to Navigate to subfolders within Portals
 > Added ability for the user to choose the keyboard shortcuts for Peek and Show/Hide All Portals
