@@ -1,1 +1,12 @@
-TBC
+All settings will be preserved.
+
+Changes in v3.2.0.0:
+> Fixed some major memory issues.
+> Fairly significant performance improvements
+> Can now use explorer right click menu as default for folders/files
+> Added further language options recently completed from Crowdin.
+> Item margins and content margins can now be set individually for top, left, right, bottom
+> Explorer menu will now follow windows dark mode setting.
+> Dragging files over a shortcut to a folder will now add the files to tbe folder, instead of opening the folder in explorer.
+> Icons for URL files will fetch better.
+> Implemented Single Click to Open
