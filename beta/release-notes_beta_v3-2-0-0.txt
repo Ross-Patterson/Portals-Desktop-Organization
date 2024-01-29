@@ -1,5 +1,8 @@
 All settings will be preserved.
 
+Changes in v3.2.0.2:
+> Fixed high GPU usage issue
+
 Changes in v3.2.0.1:
 > Fixed some major memory issues.
 > Fairly significant performance improvements
