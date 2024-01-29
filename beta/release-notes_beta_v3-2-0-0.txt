@@ -1,6 +1,6 @@
 All settings will be preserved.
 
-Changes in v3.2.0.0:
+Changes in v3.2.0.1:
 > Fixed some major memory issues.
 > Fairly significant performance improvements
 > Can now use explorer right click menu as default for folders/files
