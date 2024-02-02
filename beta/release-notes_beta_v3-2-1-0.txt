@@ -1,0 +1,5 @@
+All settings will be preserved.
+
+Changes in v3.2.1.0:
+- BUGFIX: fixed issue with steam icons all taking the same icon.
+- Added turkish language.
