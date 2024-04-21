@@ -1,5 +1,5 @@
 // Dev Values for URLS
-donate-url=https://www.portals-app.com/donate
+donate-url=https://portals-app.com/donate
 help-url=https://portals-app.help
 issues-url=https://portals-app.com/issues
 feedback-url=https://portals-app.com/feedback
