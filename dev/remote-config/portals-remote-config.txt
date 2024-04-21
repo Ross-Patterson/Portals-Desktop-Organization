@@ -9,3 +9,5 @@ website-url=https://portals-app.com
 
 // Default Values
 shift-del-permanent-del=true
+
+header-bg-color=#eb34d8
