@@ -1,0 +1,8 @@
+// bera Values for URLS
+donate-url=https://www.portals-app.com/donate
+help-url=https://portals-app.help
+issues-url=https://portals-app.com/issues
+feedback-url=https://portals-app.com/feedback
+legal-url=https://rosspat.dev/privacy
+get-license-url=https://portals-app.com
+website-url=https://portals-app.com
