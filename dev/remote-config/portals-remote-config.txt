@@ -8,4 +8,4 @@ get-license-url=https://portals-app.com
 website-url=https://portals-app.com
 
 // Default Values
-shift-del-permanent-del=1
+shift-del-permanent-del=true
