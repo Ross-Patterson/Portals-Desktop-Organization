@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest an improvement or new feature
+title: "FEATURE REQUEST: "
+labels: ["enhancement"]
+projects: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: checkboxes
+    id: acknowledge
+    attributes:
+      label: I have checked https://portals-app.help and checked existing issues/feature requests.
+      description: Please check the help site and the existing GitHub issues and feature requests first!
+  - type: textarea
+    id: feature-request
+    attributes:
+      label: What is the enhancement/feature you would like to see?
+      description: Give as much details as possible!
+      placeholder: Tell us what you want to see!
+    validations:
+      required: true
