@@ -15,6 +15,7 @@ body:
       label: Version
       description: What version of Portals are you running?
       options:
+        - ''
         - 3.2.1.0
         - 3.2.0.3
         - 3.2.0.2
@@ -33,6 +34,7 @@ body:
       label: Operating System
       description: What Windows OS are you running?
       options:
+        - ''
         - Windows 11
         - Windows 10
         - Other (Not Supported)
