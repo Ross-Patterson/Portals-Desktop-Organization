@@ -47,7 +47,6 @@ body:
       label: What happened?
       description: Give as much details as possible!
       placeholder: Tell us what you see!
-      value: "..."
     validations:
       required: true
   - type: textarea
@@ -56,7 +55,6 @@ body:
       label: Steps to Reproduce
       description: List the steps to reproduce this issue
       placeholder: 1. Do this...
-      value: "..."
     validations:
       required: true
   - type: textarea
@@ -65,6 +63,5 @@ body:
       label: What would you expect to happen?
       description: Enter what your would expect to happen.
       placeholder: I would expect it to...
-      value: "..."
     validations:
       required: true
