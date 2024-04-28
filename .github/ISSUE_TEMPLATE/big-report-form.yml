@@ -54,7 +54,7 @@ body:
       label: Steps to Reproduce
       description: List the steps to reproduce this issue
       placeholder: 1. Do this...
-      value: "Do this..."
+      value: "1. Do this..."
     validations:
       required: true
   - type: textarea
