@@ -13,7 +13,7 @@ body:
     id: acknowledge
     attributes:
       label: Check the Help Site and GitHub Issues/Discussions
-      description: Please check the help site and the existing GitHub issues, feature requests and discussions first!
+      description: Please check the help site (https://portals-app.help) and the existing GitHub issues, feature requests and discussions first!
       options:
         - label: I have checked and found nothing.
           required: true
