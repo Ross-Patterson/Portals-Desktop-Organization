@@ -51,18 +51,18 @@ body:
   - type: textarea
     id: what-to-reproduce
     attributes:
-      label: Steps to Reproduce
-      description: List the steps to reproduce this isse.
-      placeholder: 1. Do this...
+      label: "Steps to Reproduce"
+      description: "List the steps to reproduce this isse."
+      placeholder: "1. Do this..."
       value: ""
     validations:
       required: true
   - type: textarea
     id: expectations
     attributes:
-      label: What would you expect to happen?
-      description: Enter what your would expect to happen.
-      placeholder: I would expect it to...
+      label: "What would you expect to happen?"
+      description: "Enter what your would expect to happen."
+      placeholder: "I would expect it to..."
       value: ""
     validations:
       required: true
