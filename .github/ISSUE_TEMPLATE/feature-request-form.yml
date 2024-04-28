@@ -12,8 +12,11 @@ body:
   - type: checkboxes
     id: acknowledge
     attributes:
-      label: I have checked https://portals-app.help and checked existing issues/feature requests.
-      description: Please check the help site and the existing GitHub issues and feature requests first!
+      label: Check the Help Site and GitHub Issues/Discussions
+      description: Please check the help site and the existing GitHub issues, feature requests and discussions first!
+      options:
+        - label: I have checked and found nothing.
+          required: true
   - type: textarea
     id: feature-request
     attributes:
