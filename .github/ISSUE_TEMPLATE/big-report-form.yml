@@ -43,7 +43,7 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
+      description: Give as much details as possible!
       placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
