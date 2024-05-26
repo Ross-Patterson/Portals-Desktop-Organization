@@ -1,1 +1,16 @@
-TBC
+Before installing a beta release, it is reccommended to take a backup of your settings, they are located at:
+C:\Users\<username>\AppData\Local\Portals
+
+Changes in v3.3.0.4:
+- Feature: tabs - You can now add additonal folders to a portal by enabling tabs in the portal from the portal menu.
+- Feature: added Home button to in-portal navigation to return to the root folder.
+- Feature: Added F5 key to refresh
+- Feature: Added ability to overwrite an existing display setup
+- Fix: better multi-monitor support - Portals should behave better when using multiple monitors with different scaling values.
+- Fix: Details view 'Name' column no longer dissapears when 'File Size' column is hidden.
+- Fix: Made column order consistent across display setup, layout and home screens
+- Fix: Fixed URL icons not fetching when the path contained a '='
+- Fix: Added ability to overwrite existing exported settings
+- Fix: Files now launch with the correct working directory
+- Fix: Double click desktop icon/folder will not hide portals when desktop background is a slideshow
+- Fix: Overlay setting now controls very small icons also
