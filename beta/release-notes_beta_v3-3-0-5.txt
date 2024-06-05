@@ -1,6 +1,10 @@
 Before installing a beta release, it is reccommended to take a backup of your settings, they are located at:
 C:\Users\<username>\AppData\Local\Portals
 
+Changes in v3.3.0.6:
+- Fixed startup crash happening for a small number of users.
+- Added Ukranian and Italian Languages
+
 Changes in v3.3.0.5:
 - Feature: tabs - You can now add additonal folders to a portal by enabling tabs in the portal from the portal menu.
 - Feature: added Home button to in-portal navigation to return to the root folder.
