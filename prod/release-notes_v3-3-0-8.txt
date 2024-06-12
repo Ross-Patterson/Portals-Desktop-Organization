@@ -2,7 +2,7 @@ All settings will be preserved, however it is advisable to take a backup of:
 C:\Users\<username>\AppData\Local\Portals
 Just in case :)
 
-Changes in v3.3.0.7:
+Changes in v3.3.0.8:
 - Some people were experiencing a crash due to some issue with fetching display DPI, fixed that.
 
 Changes in v3.3.0.7:
