@@ -24,6 +24,7 @@ body:
       description: What version of Portals are you running?
       options:
         - ''
+        - 3.3.0.9
         - 3.3.0.8
         - 3.3.0.7
         - 3.3.0.6
