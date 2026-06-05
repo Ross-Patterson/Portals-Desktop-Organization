@@ -1,1 +1,5 @@
-TBC
+Before installing a beta release, it is reccommended to take a backup of your settings, they are located at:
+C:\Users\<username>\AppData\Local\Portals
+
+Changes in v3.4.0.0:
+- TBC
