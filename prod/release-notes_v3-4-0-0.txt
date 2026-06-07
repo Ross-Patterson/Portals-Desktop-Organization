@@ -1,0 +1,17 @@
+Before installing an uodate, it is reccommended to take a backup of your settings, they are located at:
+C:\Users\<username>\AppData\Local\Portals
+
+Changes in v3.4.0.0:
+- Added Dark mode.
+- Minor Performance improvements.
+- UI improvment.
+- Introduced Settings Profiles: The ability to save the styles you have setup and switch between them at will, you can also link a saved style to a specific layout so when the layout applies that style also gets applied.
+- Added ability to copy the overridden customizations of a specific portal and paste onto another.
+- Lingering tooltip at top of screen should no longer happen.
+- Dragging files to a different root drive will now copy instead of move, to align with windows behaviour.
+- The save operation to portals.ptl will now write to a temp file first then only overwrite the master file once the full write is complete - avoiding corruption if the save is interuppted half way through.
+- Double clicking nearer the edge of items will now launch the file/program properly.
+- If a portal is locked, the resize cursor will no longer appear if hovering over the edge of a portal.
+- Issue where first icon in portal does not render properly (sometimes) should be fixed.
+- Added ability to create portals and apply layouts/settings profiles through command line calls.
+- Added updated translations and new Dutch and Hebrew translations.
