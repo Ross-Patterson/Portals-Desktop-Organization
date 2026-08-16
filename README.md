@@ -16,8 +16,8 @@
 ## Star History
 <a href="https://www.star-history.com/?repos=Ross-Patterson%2FPortals-Desktop-Organization&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&theme=dark&legend=top-left&sealed_token=Esor9O0WQwuOajEEBLwK_0Uo0ags4ME9RPwqr2HTQwG1SdJMEXhTkOqp2VrkALe3vjHmx0qL73cc2ASpIZQVHOxohEc1Ogapumb_1D8G-CMac1mrVLmuvA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&legend=top-left&sealed_token=Esor9O0WQwuOajEEBLwK_0Uo0ags4ME9RPwqr2HTQwG1SdJMEXhTkOqp2VrkALe3vjHmx0qL73cc2ASpIZQVHOxohEc1Ogapumb_1D8G-CMac1mrVLmuvA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Ross-Patterson/Portals-Desktop-Organization&type=date&legend=top-left&sealed_token=Esor9O0WQwuOajEEBLwK_0Uo0ags4ME9RPwqr2HTQwG1SdJMEXhTkOqp2VrkALe3vjHmx0qL73cc2ASpIZQVHOxohEc1Ogapumb_1D8G-CMac1mrVLmuvA" />
  </picture>
 </a>
